@@ -1,0 +1,2 @@
+# WDalgorithm
+ Just for practice
